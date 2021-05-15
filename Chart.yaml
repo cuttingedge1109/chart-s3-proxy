@@ -1,0 +1,9 @@
+apiVersion: v2
+name: s3-proxy
+description: A Helm chart for s3 proxy
+
+type: application
+
+version: 0.1.0
+
+appVersion: "1.8.0"
